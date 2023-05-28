@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 虚空之字
+title: chatelier
 subtitle: "探索代码与文字的无垠宇宙"
 description: "在虚空之字的博客世界里，代码与文字交织出美妙的旋律。探索无垠宇宙，畅游编码的诗意之境，让思想在虚实间翱翔。与我一同分享技术、创意和人生的点点滴滴，共同绘制属于代码艺术的绚丽画卷。"
 keywords: java,Backend development
-author: '虚空之字'
+author: 'chatelier'
 language: 'zh-cn'
 timezone: 'Etc/GMT+8'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://blog.voidbytes.com/
+url: https://chatelier.voidbytes.com/
 root: /
 permalink: posts/:abbrlink/
 permalink_defaults:
